@@ -3,7 +3,19 @@
 # S-PRIME — Anti-Gravity Grand Prix
 
 Hyper-speed anti-gravity racing: 16 machines, 12 tracks with loops, pipes, cylinders and corkscrews,
-1,500 km/h boosts and an optional power-up mode. This page is for **downloading the game**. The source code is private.
+1,500 km/h boosts and an optional power-up mode. This page is for **playing and downloading the game**. The source code is private.
+
+## Play in your browser
+
+**[▶ Play S-PRIME now](https://chthonik.github.io/S-PRIME/)** — no install. Works best in Chrome or Edge on a PC with a keyboard or Xbox controller
+(press **Enter** to start; the full controls are under *How to Play*). The first load is about 80 MB, then it's cached.
+The browser version uses simpler graphics than the PC download. Progress is saved in your browser.
+
+## Download for Windows
+
+**[Download S-PRIME-Windows.zip](https://github.com/chthonik/S-PRIME/releases/download/v1.1.0/S-PRIME-Windows.zip)** (about 107 MB, v1.1.0).
+Unzip it and run **S-PRIME.exe** (keep **S-PRIME.pck** in the same folder). Windows 10/11, 64-bit, with a Vulkan or DirectX 12 graphics card.
+If SmartScreen says *Windows protected your PC*, click **More info → Run anyway**.
 
 ## Download for Android
 
